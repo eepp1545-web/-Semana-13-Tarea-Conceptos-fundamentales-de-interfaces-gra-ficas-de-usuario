@@ -20,12 +20,6 @@ Cada vehículo registrado contiene la siguiente información:
 * Marca
 * Propietario
 
-## Tecnologías utilizadas
-
-* Python
-* Tkinter (interfaz gráfica)
-* Programación orientada a objetos
-
 ### Descripción de carpetas
 
 **modelos**
