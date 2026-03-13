@@ -22,16 +22,16 @@ Cada vehículo registrado contiene la siguiente información:
 
 ### Descripción de carpetas
 
-**modelos**
+* modelos
 Contiene la clase que representa los datos del vehículo.
 
-**servicios**
+* servicios
 Contiene la lógica del programa para gestionar los vehículos.
 
-**ui**
+* ui
 Contiene la interfaz gráfica desarrollada con Tkinter.
 
-**main.py**
+* main.py
 Archivo principal que inicia la aplicación.
 
 ## Autor
